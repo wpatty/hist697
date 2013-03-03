@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html;
+charset=utf-8"/>
+
+	<title>Jordan Patty HIST 697 Portfolio</title> 
+ <head>
+   
+       <style type="text/css">
+
+	html { 
+		background-color: #ddd;
+		background-image: url(LR1958.jpg);
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	
+      body {
+		font-family: Helvetica, Arial, sans-serif;
+		width: 80%; 
+		margin: 40px auto; 
+		background-color: rgba(255, 255, 255, 0.8);
+		padding: 40px;
+		border: 3px solid #000;
+	}
+
+	h1 {
+		color: blue;
+		text-align: center;
+		
+	}
+	
+	h2 {
+		color: brown;
+		text-align: center;
+		
+	}
+
+ 
+	div {
+          
+          color: black;
+          font-weight: bold;
+          text-align: left;
+        }
+
+        div#d1 {
+          width:250px;
+		height: 220px;
+         float:left;
+         margin-top:115px;
+         margin-right:18px;
+        }
+        
+	  div#d2 {
+	   width:800px;
+    		height: 300px;
+		margin-left: 50px;
+		
+	  } 
+	
+	div#d3 {
+	   width:800px;
+    		height: 200px;
+		
+	  } 
+		
+	ul.std {
+     	list-style: none;
+	border: 1px solid #000000;
+	}
+
+	ul.std li {
+     		background: url(document.png) no-repeat 0
+		.2em;
+     		margin: 0;
+     		padding: 0 0 5px 25px;
+		
+	}
+
+	div.footer {
+  		
+		
+          height: 30px;
+		
+		font-size: 9pt;
+  		font-style: italic;
+  		
+  	
+  		
+			
+	}
+        </style>
+  </head>
+  <body>
+
+
+
+
+    <div id="d1">	
+	<ul class="std">
+    		<li><a href="#">Responsive Design Page</a></li>
+    		<li><a href="#">Design Rationale</a></li>
+    		<li><a href="#">Final Project</a></li>
+	</ul>
+	<p>Jordan Patty is a student in the History PhD program at George Mason University.
+	</div>
+	
+	<div id="d2">	
+	<h1>Jordan Patty</h1>
+<h2>HIST 697 Portfolio</h2>
+	<p>This is my portfolio website for HIST 697 Creating History in New Media. 
+	</p>
+	<p>On the left, you will find links to the assignments.
+	</p>
+	</div>
+
+
+<div class="footer">
+<p><strong>updated February 15, 2013</strong><p>
+</div>
+
+  </body>
+</html>
